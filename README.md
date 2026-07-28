@@ -12,7 +12,7 @@
 ### 💻 Sobre mí
 - 🎓 Actualmente estoy cursando **2º año de Ingeniería Informática**, construyendo bases sólidas en desarrollo de software y ciencias de la computación.
 - 🌱 Me apasiona el desarrollo web y estoy expandiendo mis conocimientos en **arquitectura de software y tecnologías cloud**.
-- 👯 Busco colaborar en proyectos de código abierto y retos tecnológicos interesantes.
+- 💻 Busco colaborar en proyectos de código abierto y retos tecnológicos interesantes.
 - 💬 Pregúntame sobre **React, Next.js, TypeScript, PHP y bases de datos relacionales**.
 
 ---
@@ -38,11 +38,8 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikerbenitezdev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikerbenitezdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikerbenitezdev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>

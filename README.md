@@ -36,10 +36,4 @@
 | **🐟 Ocean Fresh** | Web informativa enfocada en la exportación de pescados desde Mauritania. Cuenta con un catálogo dinámico generado a partir del contenido web. | `PHP`, `MySQL`, `Tailwind` | [Demo](https://tu-demo.com) / [Repo](https://github.com/ikerbenitezdev/ocean-fresh) |
 | **🔗 Fib Links** | Plataforma colaborativa para centralizar y unificar los enlaces de la universidad por asignatura, evitando despistes y permitiendo peticiones y aportaciones directas de los alumnos. | `React`, `Node.js`, `MongoDB / SQL` | [Demo](https://tu-demo.com) / [Repo](https://github.com/ikerbenitezdev/fib-links) |
 
----
 
-### 🏆 Logros
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ikerbenitezdev&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
